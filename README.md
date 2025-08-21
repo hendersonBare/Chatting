@@ -1,9 +1,8 @@
 ```
-Authors:    Brett Baxter & Henderson Bare
+Authors:    Henderson Bare & Brett Baxter
 Date:       3/22/2023
 Course:     CS 3500, University of Utah, School of Computing
-GitHub ID:  BrettBaxter1 & hendersonBare
-Repo:       https://github.com/uofu-cs3500-spring23/assignment-seven---chatting-bretthenderson.git
+GitHub ID:  hendersonBare & BrettBaxter1
 Date:       3/22/2023
 Solution:   Networking and Logging
 Copyright:  CS 3500, Henderson Bare, and Brett Baxter - This work may not be copied for use in Academic Coursework.
